@@ -2,7 +2,11 @@
 
 Code for paper :
 
-Token-Aware Virtual Adversarial Training
+
+
+*[TAVAT: Token-Aware Virtual Adversarial Training for Language Understanding
+](https://arxiv.org/abs/2004.14543)*
+
 
 ## Dependencies
 - Python 3.7
