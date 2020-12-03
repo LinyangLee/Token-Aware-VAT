@@ -1,6 +1,6 @@
 # Token-Aware Virtual Adversarial Training
 
-Code for paper :
+Code for our AAAI 2021 paper :
 
 
 
